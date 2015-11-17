@@ -1,6 +1,6 @@
 {
-  "name": "react-redux-starter-kit",
-  "version": "0.17.0",
+  "name": "cdmetrics",
+  "version": "0.1.0",
   "description": "Get started with React, Redux, and React-Router!",
   "main": "index.js",
   "scripts": {
@@ -18,14 +18,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davezuko/react-redux-starter-kit.git"
+    "url": "git+https://github.com/owenyang0/cdmetrics.git"
   },
-  "author": "David Zukowski <david@zuko.me> (http://zuko.me)",
+  "author": "OwenYang <usay@outlook.com> (http://owenyang0.github.io/)",
   "license": "MIT",
   "dependencies": {
     "babel": "^5.8.23",
+    "bootstrap-sass": "^3.3.5",
     "dotenv": "^1.2.0",
     "history": "^1.9.0",
+    "jeet": "^6.1.2",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
     "react-redux": "^4.0.0",
